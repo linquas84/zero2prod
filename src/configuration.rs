@@ -1,4 +1,3 @@
-use actix_web::App;
 use config::Config;
 use secrecy::{ExposeSecret, SecretString};
 
